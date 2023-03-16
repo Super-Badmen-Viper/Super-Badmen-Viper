@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 					</div>                       
 					<h3>Undergraduate students (second year)（None temporarily professional title） </h3> 
 					<p>
+						Gender male, age 21<br>
+					</p>
+					<p>
 						Nanjing University of Information Science & Technology (Home)<br>
 						Computer Science and Technology<br>
 						Email: 1774148579@qq.com <br>    
