@@ -38,12 +38,10 @@ Here are some ideas to get you started:
 					<div>
 						<h1 style = "color: #2E64FE;">Mr. Xiang Cheng &nbsp; </h1><h1></h1>
 					</div>                       
-					<img src="doc/1664969218306.jpg" border="0" width="160"><br>
 					<h3>Undergraduate students (second year)（None temporarily professional title） </h3> 
 					<p>
 						Nanjing University of Information Science & Technology (Home)<br>
 						Computer Science and Technology<br>
-						Although I am currently a college student, But I hope to join the scientific research team, And gradually grow into a scientist.<br>     
 						Email: 1774148579@qq.com <br>    
 						   <br>
 						   <br>
