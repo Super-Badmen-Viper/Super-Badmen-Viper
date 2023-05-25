@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Badmen-Viper&show_icons=true&theme=swift&cache_seconds=200*300&locale=cn&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Badmen-Viper&show_icons=true&theme=swift&cache_seconds=200*300&locale=cn) <!--&include_all_commits=true-->
 
 # Mr. Xiang Cheng
 - Undergraduate students (second year)（None temporarily professional title）
