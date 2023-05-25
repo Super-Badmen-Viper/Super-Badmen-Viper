@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 		<div style="margin-top:25px">
 			<div>
 				<div>
-					<div>
-						<h1 style = "color: #2E64FE;">Mr. Xiang Cheng &nbsp; </h1><h1></h1>
-					</div>                       
+					<h1 style = "color: #2E64FE;">Mr. Xiang Cheng &nbsp; </h1>                      
 					<h3>Undergraduate students (second year)（None temporarily professional title） </h3> 
 					<p>
 						Gender male, age 21<br>
