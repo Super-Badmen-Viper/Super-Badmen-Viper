@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Gender male, age 21
 - Nanjing University of Information Science & Technology (Home)
 - Computer Science and Technology
-- Email: 1774148579@qq.com
+- Email: xiangch007@gmail.com  or  1774148579@qq.com
 
 ## <a href="https://github.com/Super-Badmen-Viper">Selected Github Open Source Project：</a>
 - <a href="//github.com/Super-Badmen-Viper/MoZhiMusicPlayer">1.MusicPlayer PC WPF Edition: MoZhiMusicPlayer</a>
