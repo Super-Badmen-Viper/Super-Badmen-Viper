@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Updating......
 
 ## Research Interests
-- AI, Maching Learning, Deep Learning, Computer Vision, software development, Math,etc.
+- AI, Maching Learning, Deep Learning, Computer Vision, Audio algorithm, software development, Math,etc.
 - Updating......
 
 ## Selected Awards
