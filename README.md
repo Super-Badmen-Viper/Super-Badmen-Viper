@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 # Mr. Xiang Cheng
 - Undergraduate students (second year)（None temporarily professional title）
-- Gender male, age 21
 - Nanjing University of Information Science & Technology (Home)
 - Computer Science and Technology
 - Email: xiangch007@gmail.com  or  1774148579@qq.com
