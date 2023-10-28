@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Badmen-Viper)](https://github.com/anuraghazra/github-readme-stats)
 
 # Mr. Xiang Cheng
-- Undergraduate students (second year)（None temporarily professional title）
+- Undergraduate students (3 year)（None temporarily professional title）
 - Nanjing University of Information Science & Technology (Home)
 - Computer Science and Technology
 - Email: xiangch007@gmail.com  or  1774148579@qq.com
