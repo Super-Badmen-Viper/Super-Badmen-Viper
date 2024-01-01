@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - Updating......
 
 ## 🌱 Personal skills I am currently learning
-- 1.use Python / C++ / Matlab / Pytorch / TensorFlow / Math, Design mathematical formula, Build AI and algorithm model(computer vision, Natural Language Processing)
+- 1.use Python / C++ / Matlab / Pytorch / TensorFlow / Math, Design mathematical formula, Build AI and algorithm model
 - 2.use C# / dotNET / WPF / Winform, Building Windows Desktop Software
 - 3.use C++ / Qt, Building Windows Desktop Software
 - 4.use Java / database / web / SSM, Build websites and manage systems
