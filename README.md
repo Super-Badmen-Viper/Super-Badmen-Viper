@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Updating......
 
 ## Research Interests
-- AI, Maching Learning, Deep Learning, Computer Vision, Audio algorithm, software development, Math,etc.
+- Maching Learning, Knowledge graph, Audio algorithm, software development, .NET , 
 - Updating......
 
 ## Selected Awards
