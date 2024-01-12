@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 - <a href="https://github.com/Super-Badmen-Viper/NSMusicS">1.MusicPlayer PC WPF Edition: Nine Song Music Worlds</a>
 - Updating......
 
+## Self-introduction
+- Hello, I'm Xiang Cheng. Currently, I am working on my personal project - NSMusicS, aiming to showcase my The level of technology and ability.
+- NSMusicS is planned to be a multimodal intelligent music software based on Blazor And WPF, which supports multiple platforms.
+- In this project For NSMusicS, I will integrate various technologies, including machine learning, full-stack development, and system architecture design, to demonstrate my capabilities as a full-stack developer.
+- I appreciate your attention and stars for NSMusicS. Thank you!
+
 ## Biography
 - None temporarily
 - Updating......
