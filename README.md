@@ -1,19 +1,5 @@
 ### Hi there 👋 , Welcome to my Github space. Here is my readme
 
-<!--
-**Super-Badmen-Viper/Super-Badmen-Viper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Badmen-Viper)](https://github.com/anuraghazra/github-readme-stats)
 
 # Mr. Xiang Cheng
@@ -47,24 +33,3 @@ Here are some ideas to get you started:
 ## Selected Papers
 - None temporarily
 - Updating......
-
-## 🌱 Personal skills I am currently learning
-- 1.use Python / C++ / Matlab / Pytorch / TensorFlow / Math, Design mathematical formula, Build AI and algorithm model
-- 2.use C# / dotNET / WPF / Winform, Building Windows Desktop Software
-- 3.use C++ / Qt, Building Windows Desktop Software
-- 4.use Java / database / web / SSM, Build websites and manage systems
-- Updating.......
-## 
-
-<!--
-<h2 style="color: #2E64FE;">Selected Invited Talks</h2>
-<p>None temporarily</p>
-<h2 style="color: #2E64FE;">Selected Publications [Full publication list is available in <a href="">Google Scholar</a>]</h2>
-<p>None temporarily</p>
-<h2 style="color: #2E64FE;">Professional Service</h2>
-<p>None temporarily</p>
-<h2 style="color: #2E64FE;">Selected Challenges</h2>
-<p>None temporarily</p>
-<h2 style="color: #2E64FE;">Teaching</h2>
-<p>None temporarily</p>
--->
