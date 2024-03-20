@@ -9,7 +9,7 @@
 - Email: xiangch007@gmail.com  or  1774148579@qq.com
 
 ## <a href="https://github.com/Super-Badmen-Viper">Selected Github Open Source Project：</a>
-- <a href="https://github.com/Super-Badmen-Viper/NSMusicS">1.MusicPlayer PC WPF Edition: Nine Song Music Worlds</a>
+- <a href="https://github.com/Super-Badmen-Viper/NSMusicS">NSMusicS</a>
 - Updating......
 
 ## Biography
