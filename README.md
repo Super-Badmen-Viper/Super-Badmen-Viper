@@ -5,7 +5,7 @@
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=Super-Badmen-Viper&layout=compact" />
 
 # Mr. Xiang Cheng
-- Undergraduate students (3 year)（None temporarily professional title）
+- Undergraduate students (4 year)
 - Nanjing University of Information Science & Technology (Home)
 - Computer Science and Technology
 - Email: xiangch007@gmail.com  or  1774148579@qq.com
