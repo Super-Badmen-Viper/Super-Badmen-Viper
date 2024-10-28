@@ -1,6 +1,4 @@
-![Metrics](/github-metrics.svg)
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Badmen-Viper)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--![Metrics](/github-metrics.svg)-->
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=Super-Badmen-Viper&show_icons=true&hide=contribs,prs" alt="XiangCheng's github stats" /> 
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=Super-Badmen-Viper&layout=compact" />
 
