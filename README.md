@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats-xcanwin.vercel.app/api?username=Super-Badmen-Viper&show_icons=true&hide=contribs,prs" width="48%" />
 <img src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=Super-Badmen-Viper&layout=compact" width="30%" />
 
-# Mr. Xiang Cheng
+## Xiang Cheng
 - Undergraduate students (4 year)
 - Nanjing University of Information Science & Technology (Home)
 - Computer Science and Technology
