@@ -12,7 +12,7 @@
 - I will graduate from university in early July 2025 with a Bachelor's degree in Computer Science and Technology.
 - I hope to become an employee of a large Internet enterprise in China to meet my employment needs.
 - I need a high paying GO(Golang Backend) development engineer position.
-- I rely on my open-source project NSMusicS as my job search experience.
+- I use my open-source project NSMusicS as my work experience.
 
 ## <a href="https://github.com/Super-Badmen-Viper">Selected Github Open Source Project：</a>
 - <a href="https://github.com/Super-Badmen-Viper/NSMusicS">NSMusicS</a>
