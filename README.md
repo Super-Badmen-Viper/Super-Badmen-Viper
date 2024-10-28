@@ -12,9 +12,11 @@
 - <a href="https://github.com/Super-Badmen-Viper/NSMusicS">NSMusicS</a>
 - Updating......
 
-## Biography
-- None temporarily
-- Updating......
+## Job Information
+- I will graduate from university in early July 2025 with a Bachelor's degree in Computer Science and Technology.
+- I hope to become an employee of a large Internet enterprise in China to meet my employment needs.
+- I need a high paying GO(Golang Backend) development engineer position.
+- I rely on my open-source project NSMusicS as my job search experience.
 
 ## Research Interests
 - Software System development, .NET , Golang, math, Maching Learning, Knowledge graph, Audio algorithm
