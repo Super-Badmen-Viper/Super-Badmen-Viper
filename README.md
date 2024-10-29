@@ -19,7 +19,7 @@
 - Updating......
 
 ## Research Interests
-- Software System development, .NET , Golang, math, Maching Learning, Knowledge graph, Audio algorithm
+- Software System development, Golang, math of computer, .NET , Maching Learning, Knowledge graph
 - Updating......
 
 ## Selected Awards
