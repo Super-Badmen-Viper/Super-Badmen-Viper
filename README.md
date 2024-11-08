@@ -1,6 +1,6 @@
 <!--![Metrics](/github-metrics.svg)-->
-<img src="https://github-readme-stats-xcanwin.vercel.app/api?username=Super-Badmen-Viper&show_icons=true&hide=contribs,prs" width="48%" />
-<img src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=Super-Badmen-Viper&layout=compact" width="30%" />
+<img src="https://github-readme-stats-xcanwin.vercel.app/api?username=Super-Badmen-Viper&show_icons=true&hide=contribs,prs" width="70%" />
+<img src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=Super-Badmen-Viper&layout=compact" width="50%" />
 
 ## Xiang Cheng
 - Undergraduate students (4 year)
