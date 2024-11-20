@@ -6,7 +6,7 @@
 - Undergraduate students (4 year)
 - Nanjing University of Information Science & Technology (Home)
 - Computer Science and Technology
-- Email: xiangch007@gmail.com  or  1774148579@qq.com
+- Email: xiangch007@gmail.com  or  xiangch007@qq.com
 
 ## Job Information
 - I will graduate from university in early July 2025 with a Bachelor's degree in Computer Science and Technology.
