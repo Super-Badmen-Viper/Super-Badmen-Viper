@@ -90,13 +90,13 @@
     "workList": [
         {
             "work_name": "NSMusicS：https://github.com/Super-Badmen-Viper/NSMusicS",
-            "work_desc": "拥有2K+ Stars的GitHub开源跨平台音乐客户端，支持NineSong服务端及主流开源流媒体服务器（Navidrome, Jellyfin, Emby），同时兼容本地音乐库管理；",
+            "work_desc": "2K+ Star的GitHub开源跨平台音乐客户端，支持NineSong服务端及主流开源流媒体服务器（Navidrome, Jellyfin, Emby），同时兼容本地音乐库管理；",
             "visit_link": "https://github.com/Super-Badmen-Viper/NSMusicS",
             "dataIndex": 0
         },
         {
             "work_name": "NineSong：https://github.com/Super-Badmen-Viper/NineSong",
-            "work_desc": "基于清洁架构的Go语言后端服务，打造面向ToB/ToC的云原生、AI可扩展数据共享平台，专注于文件元数据管理及衍生业务属性。首个成熟应用场景为ToC音乐服务端：NineSong | NSMusicS；",
+            "work_desc": "基于清洁架构的Go服务端，打造面向ToB/ToC的云原生、AI可扩展数据共享平台，专注于文件元数据管理及衍生业务属性。首个成熟应用场景为ToC音乐服务端：NineSong | NSMusicS；",
             "dataIndex": 1,
             "visit_link": "https://github.com/Super-Badmen-Viper/NSMusicS"
         }
