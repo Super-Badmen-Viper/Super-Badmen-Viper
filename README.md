@@ -13,8 +13,7 @@
 - 本人(Xiang Cheng)，Github千星开源作者，南京信息工程大学计算机科学与技术本科学历，25届应届生；
 - 如果你的公司正在招聘，且招聘需求与我相同，请把我介绍给你的公司;
 - 本人开源项目，如下所示：一个基于Electron+Vite+Vue3+TypeScript的2K+Star客户端开源项目；一个基于清洁架构的GO+Gin+MongoDB服务端开源项目；
-- 薪资可谈，就业优先。能力超群，学习能力极快，创新能力Max，责任心超强(责任心不强我当什么开源项目维护者呢)；
-- 招到就是血赚，一个能顶三个，错过不会再有，三份工资招来的质量还真不一定有我这一个好;
+- 薪资要求不高：10~15K，就业优先。能力强，学习能力好，有创新，责任心强；
 - 本人在线简历链接：https://visiky.github.io/resume/?branch=master&template=template2&user=Super-Badmen-Viper
 - 本人技术栈：
 - 熟悉 Golang：Gin、MongoDB、JWT、Test、Docker. 
