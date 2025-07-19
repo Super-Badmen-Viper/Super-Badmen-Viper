@@ -3,9 +3,6 @@
 <img src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=Super-Badmen-Viper&layout=compact" width="50%" />
 
 ## Xiang Cheng
-- Undergraduate students (4 year)
-- Nanjing University of Information Science & Technology (Home)
-- Computer Science and Technology
 - Email: xiangch007@gmail.com  or  xiangch007@qq.com
 
 ## <a href="https://github.com/Super-Badmen-Viper">Selected Github Open Source Project：</a>
