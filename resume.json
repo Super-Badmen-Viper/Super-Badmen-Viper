@@ -80,7 +80,7 @@
             "project_name": "NSMusicS | Github开源项目",
             "project_role": "开源作者",
             "project_desc": "跨平台开源音乐客户端；同时支持本地服务与各类Github开源服务端；",
-            "project_content": "独立完成跨平台桌面端的落地实现，实现Docker Web部署与主流流媒体服务集成，设计本地/云服务管理元数据；\n兼容各种主流的开源流媒体服务器：Navidrome、Jellyfin、Emby....；支持 Windows10+、MacOS（arm、x64）、Linux 、Docker的安装部署；Web通用/MPV专业双模音频播放；国际化；支持本地模式以使用本地音乐库；",
+            "project_content": "独立完成跨平台桌面端的落地实现，实现Docker Web部署与主流流媒体服务集成，设计本地/云服务管理元数据；\n兼容Github开源流媒体服务器：Navidrome、Jellyfin、Emby、NineSong....；支持 Windows10+、MacOS（arm、x64）、Linux 、Docker的安装部署；Web通用/MPV专业双模音频播放；国际化；支持本地模式以使用本地音乐库；",
             "dataIndex": 0
         },
         {
