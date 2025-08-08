@@ -10,18 +10,17 @@
     },
     "avatar": {
         "src": "https://avatars.githubusercontent.com/u/83256054?s=400&u=ceed95fd0475bdef28b04c67b1ab8f0e4b887a16&v=4",
-        "hidden": true,
+        "hidden": false,
         "shape": "square"
     },
     "profile": {
         "name": "程翔",
         "email": "1774148579@qq.com",
-        "mobile": "147****1209",
+        "mobile": "14751871209",
         "github": "https://github.com/Super-Badmen-Viper",
         "zhihu": "",
         "workExpYear": "",
-        "positionTitle": "GO后端开发工程师 / 全栈开发工程师",
-        "workPlace": ""
+        "positionTitle": "全栈开发工程师、web前端开发工程师"
     },
     "educationList": [
         {
@@ -40,69 +39,74 @@
     "skillList": [
         {
             "skill_name": "",
-            "skill_level": null,
-            "skill_desc": "熟悉 Golang：Gin、MongoDB、JWT、Test、Docker.",
+            "skill_level": 80,
+            "skill_desc": "Golang：Clean Architecture、Gin、MongoDB、JWT、Test、Docker.",
             "dataIndex": 0
         },
         {
             "skill_name": "",
-            "skill_level": null,
-            "skill_desc": "熟悉 Web：TypeScript、Vue、Electron(nodejs)、Html、JavaScript、Docker.",
+            "skill_level": 30,
+            "skill_desc": "Python：pytorch、librosa",
             "dataIndex": 1
         },
         {
             "skill_name": "",
-            "skill_level": null,
-            "skill_desc": "熟悉 .NET：C#、WPF、Winform、WinUI3、SqlServer",
+            "skill_level": 80,
+            "skill_desc": "Web：TS、Vue、Electron(nodejs)、H5、JS、Docker.",
             "dataIndex": 2
         },
         {
             "skill_name": "",
-            "skill_level": null,
-            "skill_desc": "掌握 Python：Pytorch、Librosa",
+            "skill_level": 80,
+            "skill_desc": ".NET：C#、WPF、Winform、WinUI3、SqlServer",
             "dataIndex": 3
         },
         {
             "skill_name": "",
-            "skill_level": null,
-            "skill_desc": "掌握 Java：SSM",
+            "skill_level": 30,
+            "skill_desc": "Java：SSM",
             "dataIndex": 4
+        },
+        {
+            "skill_name": "",
+            "skill_level": 60,
+            "skill_desc": "",
+            "dataIndex": 5
         }
     ],
     "projectList": [
         {
-            "project_time": "2025.02 - 至今",
-            "project_name": "NineSong | Github开源项目",
-            "project_role": "开源作者",
-            "project_desc": "基于清洁架构的Go服务端，打造面向ToB/ToC的云原生、AI可扩展数据共享平台。\n该平台专注于文件元数据管理及衍生业务属性，首个成熟应用场景为ToC音乐Docker服务端：NineSong | NSMusicS；\n该项目作为NSMusicS的服务端，共同​​获GitHub千星认可​​，设计理念和实用性获得开发者社区广泛验证；",
-            "project_content": "\n        ​​解决的核心问题:​​\n        1. 传统开源服务端（如Navidrome, Jellyfin）​​元数据管理能力薄弱​​，限制了对文件内容的深度利用（如智能搜索、个性化推荐、跨平台访问）；\n        2. 缺乏现代化的云原生架构支持​​，导致部署运维复杂、扩展性差、难以集成AI等新能力；\n​​        核心技术方案与领域探究:​​\n​​        1. Clean Architecture 清洁架构:​​ 实现​​高内聚、低耦合​​的核心层设计，使业务逻辑独立于框架和数据库，​​便于功能迭代和维护​​；\n​​        2. 云原生实践:​​ 集成​​Docker​​化部署，实现开发/测试/生产环境一致性与快速交付；\n​​        3. 文件元数据智能管理:​​ 突破传统仅管理基础信息（文件名、大小等）的模式，专注于构建​​灵活、可扩展的元数据结构​​，支持为文件附加​​业务属性​​(如歌曲风格标签、版权信息)，为未来​​AI驱动​​的智能服务（搜索、推荐）​​奠定数据基础​​；\n​​        4. ToC场景落地 (音乐服务端)：​​ 为证明平台能力，我主导将其应用于ToC音乐场景，​​针对性解决​​了音乐库扫描、高效检索、流畅播放体验等核心问题；\n​​        关键成果与价值：​​\n        1. 平台核心架构稳定，​​已在音乐服务端场景成功部署；\n        2. 实现了​​相较于传统开源音乐服务器更优的用户体验和产品形态​​；\n        3. 设计了支撑未来AI扩展的​​元数据基础框架​​，为项目长期发展提供潜力；\n        4. 项目作为NSMusicS的服务端，共同​​获GitHub千星认可​​，设计理念和实用性获得开发者社区广泛验证；\n        ​​核心职责与贡献：​​\n        1. 负责平台​​整体架构设计、选型与核心模块代码实现​​；\n        2. 独立完成​​首个ToC音乐服务端应用场景的全部功能研发与部署​​；\n        3. 设计并实现​​可扩展的元数据管理模型​​；\n        4. 实现​​高效的Docker化部署方案​​；",
-            "dataIndex": 0
-        },
-        {
             "project_time": "2021.09 - 至今",
             "project_name": "NSMusicS | Github开源项目",
             "project_role": "开源作者",
-            "project_desc": "2K+ Star的GitHub开源跨平台音乐客户端，基于Electron、TypeScript、Vue3开发，无缝集成主流开源媒体服务器和本地音乐库；支持NineSong服务端及主流开源流媒体服务器Navidrome、Jellyfin、Emby，同时兼容本地音乐库管理；",
-            "project_content": "​​\n        解决的核心问题：​​\n        1. 音乐爱好者需使用​​多个不同客户端​​访问各种开源媒体服务器(Navidrome, Jellyfin, Emby)及本地音乐库，​​体验割裂，操作繁琐​​；\n        2. 市面上​​缺乏功能完善、易于部署的桌面端统一入口​​；\n​​        核心技术方案与领域探究：​​\n​​        1. 跨平台桌面开发(Electron)：​​ 探究并应用 ​​Electron框架​​，实现一套代码在 ​​Windows, macOS(ARM/x64), Linux​​ 三大桌面平台运行，​​大幅提升开发效率​​；\n        2. ​​服务端兼容性抽象层：​​ 设计并实现统一的​​API适配层​​，成功集成了多个主流开源媒体服务器的API接口(Navidrome, Jellyfin, Emby)，​​屏蔽服务端差异​​，提供​​一致的用户操作界面​​；\n​​        3. 混合模式管理:​​ 实现对​​在线服务端​​及​​本地音乐库​​的统一搜索、播放和管理；\n​​        4. 高级播放能力：​​ 提供 ​​Web通用播放器​​ 与 ​​MPV专业播放引擎​​双模支持，满足普通用户与高阶用户对音质和处理能力的不同需求；\n​​        关键成果与价值：​​\n        1. 成功发布跨平台客户端，用户可通过单一应用访问不同后端的音乐资源；\n        2. 实现客户端应用的​​Docker Web部署选项​​，扩展了访问便捷性；\n        3. 支持​​国际化​​，拓展了潜在用户群体；\n        核心职责与贡献：​​\n        1. 主导​​跨平台桌面端的架构设计和落地实现​​；\n        2. 设计并实现​​服务端兼容性抽象层​​，完成对主流开源媒体服务器的对接；\n        3. 设计并实现​​混合音乐库管理功能​​(在线+本地)；\n        4. 开发并集成​​双模音频播放引擎​​；",
+            "project_desc": "跨平台开源音乐客户端；同时支持本地服务与各类Github开源服务端；",
+            "project_content": "独立完成跨平台桌面端的落地实现，实现Docker Web部署与主流流媒体服务集成，设计本地/云服务管理元数据；\n兼容各种主流的开源流媒体服务器：Navidrome、Jellyfin、Emby....；支持 Windows10+、MacOS（arm、x64）、Linux 、Docker的安装部署；Web通用/MPV专业双模音频播放；国际化；支持本地模式以使用本地音乐库；",
+            "dataIndex": 0
+        },
+        {
+            "project_time": "2025.02 - 至今",
+            "project_name": "NineSong | Github开源项目",
+            "project_role": "开源作者",
+            "project_desc": "面向ToB/ToC的云原生、AI可扩展数据共享平台，专注文件元数据管理及衍生业务属性；首个成熟应用场景为ToC音乐服务端；\n",
+            "project_content": "独立完成核心架构设计与全程落地实现，实现首个ToC音乐场景的全部功能研发与部署；\n相较于Navidrome、Jellyfin、Emby、Plex、Subsonic、Gonic等老牌开源音乐服务器，在ToC音乐场景提供了更优的产品形态和用户体验，具备更广泛的多场景应用潜力",
             "dataIndex": 1
         }
     ],
     "workList": [
         {
             "work_name": "NSMusicS：https://github.com/Super-Badmen-Viper/NSMusicS",
-            "work_desc": "2K+ Star的GitHub开源跨平台音乐客户端，支持NineSong服务端及主流开源流媒体服务器（Navidrome, Jellyfin, Emby），同时兼容本地音乐库管理；",
+            "work_desc": "拥有2K千星Star的，Github跨平台开源音乐客户端，支持NineSong服务端，支持Github主流开源流媒体服务器 (Navidrome, Jellyfin, Emby)与本地音乐库管理",
             "visit_link": "https://github.com/Super-Badmen-Viper/NSMusicS",
             "dataIndex": 0
         },
         {
             "work_name": "NineSong：https://github.com/Super-Badmen-Viper/NineSong",
-            "work_desc": "基于清洁架构的Go服务端，打造面向ToB/ToC的云原生、AI可扩展数据共享平台，专注于文件元数据管理及衍生业务属性。首个成熟应用场景为ToC音乐服务端：NineSong | NSMusicS；",
-            "dataIndex": 1,
-            "visit_link": "https://github.com/Super-Badmen-Viper/NSMusicS"
+            "work_desc": "与NSMusicS组合的，基于清洁架构的Go后端服务端Github开源项目；面向ToB/ToC的云原生、AI可扩展数据共享平台，专注文件元数据管理及衍生业务属性。首个成熟应用场景为ToC音乐服务端：NineSong | NSMusicS",
+            "dataIndex": 1
         }
     ],
     "aboutme": {
-        "aboutme_desc": "Github千星开源作者，对于计算机领域的前沿学术与最新技术的学习研究，始终充满热情。"
+        "aboutme_desc": "Github千星开源作者，对于计算机领域的前沿学术与最新技术的学习研究，始终充满热情。工作细致，条理清晰，责任心强。"
     },
     "theme": {
         "color": "#2f5785",
