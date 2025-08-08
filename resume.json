@@ -40,38 +40,32 @@
         {
             "skill_name": "",
             "skill_level": 80,
-            "skill_desc": "Golang：Clean Architecture、Gin、MongoDB、JWT、Test、Docker.",
+            "skill_desc": "Web：Vue、Node、Electron、H5、JS(JavaScript)、TS(TypeScript)、Docker.",
             "dataIndex": 0
         },
         {
             "skill_name": "",
-            "skill_level": 30,
-            "skill_desc": "Python：pytorch、librosa",
+            "skill_level": 80,
+            "skill_desc": "Golang：Clean Architecture、Gin、MongoDB、JWT、Test、Docker.",
             "dataIndex": 1
         },
         {
             "skill_name": "",
             "skill_level": 80,
-            "skill_desc": "Web：TS、Vue、Electron(nodejs)、H5、JS、Docker.",
+            "skill_desc": ".NET：C#、WPF、Winform、WinUI3、SqlServer",
             "dataIndex": 2
         },
         {
             "skill_name": "",
-            "skill_level": 80,
-            "skill_desc": ".NET：C#、WPF、Winform、WinUI3、SqlServer",
+            "skill_level": 30,
+            "skill_desc": "Java",
             "dataIndex": 3
         },
         {
             "skill_name": "",
             "skill_level": 30,
-            "skill_desc": "Java：SSM",
+            "skill_desc": "Python",
             "dataIndex": 4
-        },
-        {
-            "skill_name": "",
-            "skill_level": 60,
-            "skill_desc": "",
-            "dataIndex": 5
         }
     ],
     "projectList": [
