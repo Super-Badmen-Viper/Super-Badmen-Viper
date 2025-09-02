@@ -20,7 +20,7 @@
         "github": "https://github.com/Super-Badmen-Viper",
         "zhihu": "",
         "workExpYear": "",
-        "positionTitle": "全栈开发工程师、web前端开发工程师"
+        "positionTitle": "前端开发工程师、全栈开发工程师"
     },
     "educationList": [
         {
@@ -40,63 +40,66 @@
         {
             "skill_name": "",
             "skill_level": 80,
-            "skill_desc": "Web：Vue、Node、Electron、H5、JS(JavaScript)、TS(TypeScript)、Docker.",
+            "skill_desc": "Web：Vue、Nodejs、Electron、H5、JS(JavaScript)、TS(TypeScript)、Docker.",
             "dataIndex": 0
         },
         {
             "skill_name": "",
             "skill_level": 80,
-            "skill_desc": "Golang：Clean Architecture、Gin、MongoDB、JWT、Test、Docker.",
+            "skill_desc": "Java：Spring Boot、Spring Cloud (Nacos, Gateway, Feign)、MyBatis-Plus、MySQL、Redis、Elasticsearch、RabbitMQ",
             "dataIndex": 1
+        },
+        {
+            "skill_name": "",
+            "skill_level": 80,
+            "skill_desc": "Golang：Gin、MongoDB、Gorm、JWT、Test、Docker.",
+            "dataIndex": 2
         },
         {
             "skill_name": "",
             "skill_level": 80,
             "skill_desc": ".NET：C#、WPF、Winform、WinUI3、SqlServer",
             "dataIndex": 2
-        },
-        {
-            "skill_name": "",
-            "skill_level": 30,
-            "skill_desc": "Java",
-            "dataIndex": 3
-        },
-        {
-            "skill_name": "",
-            "skill_level": 30,
-            "skill_desc": "Python",
-            "dataIndex": 4
         }
     ],
     "projectList": [
         {
             "project_time": "2021.09 - 至今",
-            "project_name": "NSMusicS | Github开源项目",
+            "project_name": "NSMusicS | Github 2K+ Star | Docker Hub 2.4K Pulls",
             "project_role": "开源作者",
-            "project_desc": "跨平台开源音乐客户端；同时支持本地服务与各类Github开源服务端；",
+            "project_desc": "Electron/Web开源流媒体音乐客户端；支持对接NineSong个人数字中心，也同时支持本地服务与各类Github开源流媒体影视/音乐服务器；",
             "project_content": "独立完成跨平台桌面端的落地实现，实现Docker Web部署与主流流媒体服务集成，设计本地/云服务管理元数据；\n兼容Github开源流媒体服务器：Navidrome、Jellyfin、Emby、NineSong....；支持 Windows10+、MacOS（arm、x64）、Linux 、Docker的安装部署；Web通用/MPV专业双模音频播放；国际化；支持本地模式以使用本地音乐库；",
             "dataIndex": 0
         },
         {
             "project_time": "2025.02 - 至今",
-            "project_name": "NineSong | Github开源项目",
+            "project_name": "NineSong |  Github 100+ Star | Docker Hub 2.7K Pulls",
             "project_role": "开源作者",
-            "project_desc": "面向ToB/ToC的云原生、AI可扩展数据共享平台，专注文件元数据管理及衍生业务属性；首个成熟应用场景为ToC音乐服务端；\n",
+            "project_desc": "Golang开源个人数字中心服务端，面向各类ToB/ToC的云原生应用场景、AI可扩展数据共享平台，专注文件元数据管理及衍生业务属性；首个成熟应用场景为ToC音乐服务器： NineSong | NSMusicS；\n",
             "project_content": "独立完成核心架构设计与全程落地实现，实现首个ToC音乐场景的全部功能研发与部署；\n相较于Navidrome、Jellyfin、Emby、Plex、Subsonic、Gonic等老牌开源音乐服务器，在ToC音乐场景提供了更优的产品形态和用户体验，具备更广泛的多场景应用潜力",
             "dataIndex": 1
+        },
+        {
+            "project_time": "2025.02 - 至今",
+            "project_name": "九歌资讯",
+            "project_role": "总开发者",
+            "project_desc": "一个基于SpringCloudAlibaba微服务的Java资讯平台，包含面向普通用户的App端、面向内容创作者的自媒体端和面向平台管理员的后台管理端。",
+            "project_content": "独立完成核心架构设计与全程落地实现，使用后端: Spring Boot, Spring Cloud (Nacos, Gateway, Feign), MyBatis-Plus，数据库: MySQL, MongoDB，搜索引擎: Elasticsearch，缓存: Redis，文件存储: 阿里云OSS，内容安全: 阿里云内容安全服务，消息队列: RabbitMQ等等，来实现核心业务：用户服务、自媒体服务、文章服务、管理后台服务、搜索服务、行为服务与评论服务等等",
+            "dataIndex": 2
         }
     ],
     "workList": [
         {
-            "work_name": "NSMusicS：https://github.com/Super-Badmen-Viper/NSMusicS",
-            "work_desc": "拥有2K千星Star的，Github跨平台开源音乐客户端，支持NineSong服务端，支持Github主流开源流媒体服务器 (Navidrome, Jellyfin, Emby)与本地音乐库管理",
+            "work_name": "NSMusicS流媒体音乐客户端(Github千星开源)：https://github.com/Super-Badmen-Viper/NSMusicS",
+            "work_desc": "拥有2K千星Star的Github流媒体音乐客户端，支持对接NineSong个人数字中心，也支持对接Github主流开源流媒体服务器 (Navidrome, Jellyfin, Emby)与本地音乐库管理",
             "visit_link": "https://github.com/Super-Badmen-Viper/NSMusicS",
             "dataIndex": 0
         },
         {
-            "work_name": "NineSong：https://github.com/Super-Badmen-Viper/NineSong",
-            "work_desc": "与NSMusicS组合的，基于清洁架构的Go后端服务端Github开源项目；面向ToB/ToC的云原生、AI可扩展数据共享平台，专注文件元数据管理及衍生业务属性。首个成熟应用场景为ToC音乐服务端：NineSong | NSMusicS",
-            "dataIndex": 1
+            "work_name": "NineSong个人数字中心(Github百星开源)：https://github.com/Super-Badmen-Viper/NineSong",
+            "work_desc": "与NSMusicS组合的，基于清洁架构的Golang个人数字中心服务端；面向ToB/ToC的云原生、AI可扩展数据共享平台，专注文件元数据管理及衍生业务属性。首个成熟应用场景为ToC音乐服务端：NineSong | NSMusicS",
+            "dataIndex": 1,
+            "visit_link": "https://github.com/Super-Badmen-Viper/NSMusicS"
         }
     ],
     "aboutme": {
