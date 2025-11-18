@@ -8,7 +8,7 @@
 ## <a href="https://github.com/Super-Badmen-Viper">Selected Github Open Source Project：</a>
 - <a href="https://github.com/Super-Badmen-Viper/NSMusicS">NSMusicS</a> Desktop Music Software（Electron、Vue3、TypeScript）【open sourced】 
 - <a href="https://github.com/Super-Badmen-Viper/NineSong">NineSong</a> Personal Digital Center Server（Golang、Gin、MongoDB、Gorm）【open sourced】 
-- <a href="https://github.com/Super-Badmen-Viper/NSMusicS-Flutter">NSMusicS-Flutter</a> Phone Music Software（Flutter、Dart）【not open sourced】 
+- <a href="https://github.com/Super-Badmen-Viper/NSMusicS-Flutter">NSMusicS-Flutter</a> Full platform professional music software（Flutter、Dart）【not open sourced】 
 - Updating......
 
 ## Research Interests
